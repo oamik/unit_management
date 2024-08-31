@@ -1,4 +1,4 @@
-View [Demo(https://oamik.github.io/unit_management/)] here
+View [Demo](https://oamik.github.io/unit_management/) here
 
 # React + Vite
 
